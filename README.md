@@ -2,3 +2,11 @@
 
 # puzzles
 Just a repository for puzzles
+
+## Todo
+
+- http://ccd-school.de/coding-dojo/function-katas/from-roman-numerals/
+
+## Done
+- FizzBuzz
+
